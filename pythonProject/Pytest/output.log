@@ -1,0 +1,6 @@
+2024-12-06 15:32:33,123 : INFO : logger: info statement is executed
+2024-12-06 15:32:33,124 : ERROR : logger: error statement is executed
+2024-12-06 15:32:33,124 : WARNING : logger: warning statement is executed
+2024-12-06 15:32:33,124 : CRITICAL : logger: critical message
+2024-12-06 16:34:52,934 : ERROR : Pytest.BaseClass: Chepalenu
+2024-12-06 16:37:51,256 : ERROR : test_useLoggers: Chepalenu
